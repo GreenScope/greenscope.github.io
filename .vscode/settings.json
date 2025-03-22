@@ -1,0 +1,26 @@
+{
+    "files.exclude": {
+        ".all-contributorsrc": true,
+        ".dockerignore": true,
+        ".git-blame-ignore-revs": true,
+        ".gitattributes": true,
+        ".gitignore": true,
+        ".lycheeignore": true,
+        ".pre-commit-config.yaml": true,
+        ".prettierignore": true,
+        ".prettierrc": true,
+        "docker-compose-slim.yml": true,
+        "docker-compose.yml": true,
+        "Dockerfile": true,
+        "Gemfile": true,
+        "Gemfile.lock": true,
+        "LICENSE": true,
+        "package-lock.json": true,
+        "package.json": true,
+        "purgecss.config.js": true,
+        "requirements.txt": true,
+        "robots.txt": true,
+        ".github/**": true,
+        ".devcontainer/**": true,
+    }
+}
