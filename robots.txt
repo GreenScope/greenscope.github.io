@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://greenscope.github.io//sitemap.xml
