@@ -22,5 +22,10 @@
         "robots.txt": true,
         ".github/**": true,
         ".devcontainer/**": true,
+        "_bibliography/**": true,
+        "_books/": true,
+        "_plugins/": true,
+        "_posts/": true,
+        "_projects/": true
     }
 }
