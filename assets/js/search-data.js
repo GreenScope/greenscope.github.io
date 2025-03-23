@@ -23,16 +23,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+        },{id: "news-m-umar-shahbaz-made-this-website-using-al-folio",
+          title: 'M. Umar Shahbaz made this website using al-folio',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-umar-modified-the-website-and-did-most-of-the-formatting-work",
+          title: 'Umar modified the website and did most of the formatting work',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-we-are-still-waiting-for-ahsan-to-do-something-the-entire-web-dev-team-is-absent",
+          title: 'We are still waiting for Ahsan to do something, the entire web dev...',
           description: "",
           section: "News",},{
         id: 'social-github',
