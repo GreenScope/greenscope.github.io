@@ -2,11 +2,12 @@ github_users:
   - MUmarShahbaz
   - Zafar249
   - hawkeyeahsan
+  - ArfatBhatti
 
 repo_description_lines_max: 2
 
 github_repos:
-  - greenscope/greenscope.github.io
-  - greenscope/Environmental-Data-Logger
-  - greenscope/DBA
+  - GreenScope/greenscope.github.io
+  - GreenScope/EEDL
+  - GreenScope/DBA
   - alshedivat/al-folio
