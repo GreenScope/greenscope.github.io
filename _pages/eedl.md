@@ -12,6 +12,7 @@ repository:
   - GreenScope/EEDL
 description: >
   A custom ESP32 based mini weather station. The EEDL is the hardware for the GreenScope project.
+pretty_table: true
 ---
 
 # What is EEDL?
@@ -25,15 +26,16 @@ In the case of a failure in uploading, the EEDL will continue to store the data 
 ## Hardware
 ### Sensors (Subject to change depending on availability)
 
-| **Sensor**                   | **Price (Rs)** | **Parameters Recorded**                                    | **Communication Method** | **Calibration**  |
-|:----------------------------:|:--------------:|:----------------------------------------------------------:|:-------------------------:|:---------------:|
-| **BME280**                   | 500            | Temperature (°C), Relative Humidity (%), Pressure (hPa)    | I2C                       | None            |
-| **BH1750**                   | 400            | Light Intensity (lux)                                      | I2C                       | None            |
-| **SCD41**                    | 6,000          | CO₂ Concentration (ppm)                                    | I2C                       | None            |
-| **CCS811**                   | 1,500          | Smoke Concentration (ppm)                                  | I2C                       | None            |
-| **PMS5003**                  | 4,000          | PM2.5 Concentration (µg/m³)                                | Serial                    | None            |
-| **SPEC Sensors 3SP-CO-1000** | 5,600          | CO Concentration (ppm)                                     | Current?                  | None?           |
-| **TGS822**                   | 3,000          | Methane Concentration (ppm)                                | Analog                    | Analog to ppm   |
+| **Sensor**  | **Parameters Recorded**                  | **Communication Method** |
+|:-----------:|:----------------------------------------:|:------------------------:|
+| **DHT11**   | Temperature (°C), Relative Humidity (%)  | Single Data Line         |
+| **BMP280**  | Pressure (hPa)                           | I2C                      |
+| **BH1750**  | Light Intensity (lux)                    | I2C                      |
+| **MQ2**     | Smoke Concentration (ppm)                | Analog                   |
+| **MQ4**     | Methane Concentration (ppm)              | Analog                   |
+| **MQ7**     | CO Concentration (ppm)                   | Analog                   |
+| **PMS5003** | PM1.0, PM2.5, PM10 Concentration (µg/m³) | Serial                   |
+| **MQ135**   | Air Quality Index                        | Analog                   |
 
 ---
 
@@ -48,9 +50,9 @@ In the case of a failure in uploading, the EEDL will continue to store the data 
 | 5   | Atmospheric Pressure         |
 | 6   | Light Intensity              |
 | 7   | Air Content                  |
-| 7.1 | CO<sub>2</sub> concentration |
+| 7.1 | MQ135 Raw Voltage            |
 | 7.2 | CO concentration             |
 | 7.3 | CH<sub>4</sub> concentration |
 | 7.4 | Smoke concentration          |
 | 7.5 | PM2.5 concentration          |
-| 7.6 | Air Quality Index            |
+| 7.6 | Air Quality Index (Estimate) |

@@ -27,10 +27,4 @@ profiles:
     image_circular: false
     more_info: >
       <h2 style="text-align:center">M. Ahsan Saleem</h2>
-  - align: left
-    image: people/MMaarijZafar.png
-    content: people/MMaarijZafar.md
-    image_circular: false
-    more_info: >
-      <h2 style="text-align:center">M. Maarij Zafar</h2>
 ---

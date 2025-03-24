@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>Environmental Archive</p>
     <p>ESP32, PHP, SQL and Jekyll</p>
+social: true
 ---
 
 ---
