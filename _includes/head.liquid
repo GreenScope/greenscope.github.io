@@ -187,3 +187,7 @@
 {% if page.tikzjax %}
   <link defer rel="stylesheet" type="text/css" href="https://tikzjax.com/v1/fonts.css">
 {% endif %}
+
+{% if page.project %}
+  <link rel="stylesheet" href="{{ '/assets/css/project.css' | relative_url | bust_css_cache }}">
+{% endif %}
