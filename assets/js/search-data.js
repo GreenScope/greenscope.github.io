@@ -37,16 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/DBA/";
           },
-        },{id: "news-m-umar-shahbaz-made-this-website-using-al-folio",
-          title: 'M. Umar Shahbaz made this website using al-folio',
-          description: "",
-          section: "News",},{id: "news-umar-modified-the-website-and-did-most-of-the-formatting-work",
-          title: 'Umar modified the website and did most of the formatting work',
-          description: "",
-          section: "News",},{id: "news-we-are-still-waiting-for-ahsan-to-do-something-the-entire-web-dev-team-is-absent",
-          title: 'We are still waiting for Ahsan to do something, the entire web dev...',
-          description: "",
-          section: "News",},{
+        },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
