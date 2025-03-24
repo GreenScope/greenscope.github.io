@@ -40,6 +40,11 @@
     height: 100%;
 }
 
+.Intro .Info .Description {
+    margin-top: 20px;
+    text-align: left;
+}
+
 @media (max-width: 1000px) {
     .Intro {
         display: block;
@@ -47,6 +52,7 @@
 
     .Intro .Icon {
         padding-right: 0px;
+        margin: auto auto 20px auto;
     }
 
     .Intro .vertical-hr {
@@ -66,11 +72,16 @@
         float: none;
         display: flex;
         justify-content: center;
-        margin: 0 auto;
+        margin: 20px 0;
     }
 
     .Intro .Info .TechIconsBox .TechIcon {
         display: flex;
+    }
+
+    .Intro .Info .Description {
+        margin-top: 50px;
+        text-align: center;
     }
 }
 

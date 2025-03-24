@@ -1,7 +1,8 @@
 <div class="Intro">
   {% if include.img %}
     <div class="Icon">
-      {% include figure.liquid path=include.img max-height="300px" max-width="300px" width="auto" style="margin: auto;" %}
+      {% include figure.liquid path=include.img max-height="250px" max-width="250px" width="auto" style="margin: auto;" class='img-fluid z-depth-1
+      rounded' %}
     </div>
     <hr class="vertical-hr">
   {% endif %}
@@ -15,6 +16,6 @@
         </div>
       {% endfor %}
     </div>
-    <p>{{ include.description }}</p>
+    <p class="Description">{{ include.description }}</p>
   </div>
 </div>
