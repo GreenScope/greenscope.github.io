@@ -34,8 +34,8 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light: rgba($purple-color, 0.05);
-$code-bg-color-dark: #2c3237 !default;
+$code-bg-color-light: rgba(179, 255, 179 ,0.5);
+$code-bg-color-dark: rgba(0, 255, 0, 0.01);
 
 // Font awesome location
 $fa-font-path: "../webfonts";
@@ -50,3 +50,8 @@ $back-to-top-right: 30px;
 $back-to-top-diameter: 40px;
 $back-to-top-height: $back-to-top-diameter;
 $back-to-top-width: $back-to-top-diameter;
+
+// My Colours
+
+$theme-color-light: #03dd03;
+$theme-color-dark: #00ff00;
