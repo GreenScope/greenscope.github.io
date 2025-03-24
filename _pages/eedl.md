@@ -23,7 +23,7 @@ EEDL will repeat this for each sensor and store the values in a structure called
 In the case of a failure in uploading, the EEDL will continue to store the data locally on a builtin SD Card to ensure the data is not lost. Data from this SD Card can later be manually uploaded using another ESP32 device.
 
 ## Hardware
-### Sensors (Subject to change depending in availability)
+### Sensors (Subject to change depending on availability)
 
 | **Sensor**                   | **Price (Rs)** | **Parameters Recorded**                                    | **Communication Method** | **Calibration**  |
 |:----------------------------:|:--------------:|:----------------------------------------------------------:|:-------------------------:|:---------------:|
