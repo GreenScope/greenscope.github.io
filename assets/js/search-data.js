@@ -9,19 +9,33 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-github",
+  },{id: "nav-people",
+          title: "People",
+          description: "members of the lab or group",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
+        },{id: "nav-github",
           title: "GitHub",
           description: "Meet the developers and view our repositories",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-people",
-          title: "People",
-          description: "members of the lab or group",
+        },{id: "nav-eedl",
+          title: "EEDL",
+          description: "A custom ESP32 based mini weather station. The EEDL is the hardware for the GreenScope project.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/EEDL/";
+          },
+        },{id: "nav-dba",
+          title: "DBA",
+          description: "Program files for interacting with the GreenScope Database, enabling secure data upload and extraction via API key authentication",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/DBA/";
           },
         },{id: "news-m-umar-shahbaz-made-this-website-using-al-folio",
           title: 'M. Umar Shahbaz made this website using al-folio',
