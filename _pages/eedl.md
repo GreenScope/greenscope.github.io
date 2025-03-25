@@ -5,7 +5,7 @@ img: EEDL.png
 permalink: /EEDL/
 project: true
 nav: true
-nav_order: 4
+nav_order: 4 
 icons:
   - file: https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo.png
 repository:
@@ -23,8 +23,16 @@ EEDL will repeat this for each sensor and store the values in a structure called
 
 In the case of a failure in uploading, the EEDL will continue to store the data locally on a builtin SD Card to ensure the data is not lost. Data from this SD Card can later be manually uploaded using another ESP32 device.
 
+## Software
+
+{% include figure.liquid loading="eager" path="/assets/img/EEDL%20Main%20Code.svg" title="Flowchart" class="img-fluid rounded z-depth-1" style="background-color: white" %}
+
+<div style="display: flex; justify-content: center;"><a href="/assets/pdf/EEDL%20Main%20Code.pdf" target="_blank" rel="noopener noreferrer">
+<p style="font-size: 1.5em">View Flowchart <i class="fa-solid fa-file-pdf"></i></p>
+</a></div>
+
 ## Hardware
-### Sensors (Subject to change depending on availability)
+### Sensors
 
 | **Sensor**  | **Parameters Recorded**                  | **Communication Method** |
 |:-----------:|:----------------------------------------:|:------------------------:|
