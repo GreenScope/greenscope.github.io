@@ -1,7 +1,7 @@
 ---
 layout: project
 title: EEDL
-img: EEDL.png
+img: icons/EEDL.png
 permalink: /EEDL/
 project: true
 nav: true
@@ -25,10 +25,10 @@ In the case of a failure in uploading, the EEDL will continue to store the data 
 
 ## Software
 
-{% include figure.liquid loading="eager" path="/assets/img/EEDL%20Main%20Code.svg" title="Flowchart" class="img-fluid rounded z-depth-1" style="background-color: white" %}
+{% include figure.liquid loading="eager" path="/assets/img/charts/EEDL%20Main%20Code.svg" title="Flowchart" class="img-fluid rounded z-depth-1" style="background-color: white" %}
 
 <div style="display: flex; justify-content: center;"><a href="/assets/pdf/EEDL%20Main%20Code.pdf" target="_blank" rel="noopener noreferrer">
-<p style="font-size: 1.5em">View Flowchart <i class="fa-solid fa-file-pdf"></i></p>
+<p style="font-size: 1.5em">View PDF <i class="fa-solid fa-file-pdf"></i></p>
 </a></div>
 
 ## Hardware

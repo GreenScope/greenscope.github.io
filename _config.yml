@@ -12,7 +12,7 @@ footer_text:
 
 keywords: ESP32, Environmental Monitoring, Air Quality, Smog, LGS JT, Lahore, Pakistan, GreenScope, PHP, SQL, Jekyll, Graphing, API
 lang: en
-icon: GS.jpg
+icon: icons/GS.jpg
 
 url: https://greenscope.github.io/
 baseurl:

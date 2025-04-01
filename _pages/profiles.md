@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: members of the lab or group
+description: Contributors of GreenScope Project
 nav: true
 nav_order: 2
 
@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
+    image: people/AlbertEinstein.jpg
     content: people/sponsor.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -27,4 +27,10 @@ profiles:
     image_circular: false
     more_info: >
       <h2 style="text-align:center">M. Ahsan Saleem</h2>
+  - align: left
+    image: people/MMaarijZafar.png
+    content: people/MMaarijZafar.md
+    image_circular: false
+    more_info: >
+      <h2 style="text-align:center">M. Maarij Zafar</h2>
 ---

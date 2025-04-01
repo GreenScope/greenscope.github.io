@@ -2,11 +2,11 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Project explanation and other relevant information
+subtitle: About GreenScope
 
 profile:
   align: right
-  image: GS.jpg
+  image: icons/GS.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Environmental Archive</p>
@@ -29,9 +29,9 @@ At the current stage, Green Scope is just going to record data from different pa
 
 # The Plan
 
-{% include figure.liquid loading="eager" path="https://m-umar.me/assets/media/Projects/GS/Mind%20Map.png" title="Mind Map" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="/assets/img/charts/Mind%20Map.svg" title="Mind Map" class="img-fluid rounded z-depth-1" %}
 
-<div style="display: flex; justify-content: center;"><a href="assets/pdf/Mind%20Map.pdf" target="_blank" rel="noopener noreferrer">
+<div style="display: flex; justify-content: center;"><a href="/assets/pdf/Mind%20Map.pdf" target="_blank" rel="noopener noreferrer">
 <p style="font-size: 1.5em">View PDF <i class="fa-solid fa-file-pdf"></i></p>
 </a></div>
 

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: DBA
-img: DBA.png
+img: icons/DBA.png
 permalink: /DBA/
 project: true
 nav: true
@@ -21,6 +21,14 @@ description: >
 DBA (Database Access) is a system designed to securely manage real-time sensor data from EEDL, our custom hardware. The system ensures efficient data collection, storage, and retrieval while maintaining security through API key authentication.
 
 ## How It Works
+
+### Software
+
+{% include figure.liquid loading="eager" path="/assets/img/charts/DBA%20Write%20Code.svg" title="Flowchart" class="img-fluid rounded z-depth-1" style="background-color: white" %}
+
+<div style="display: flex; justify-content: center;"><a href="/assets/pdf/DBA%20Write%20Code.pdf" target="_blank" rel="noopener noreferrer">
+<p style="font-size: 1.5em">View PDF <i class="fa-solid fa-file-pdf"></i></p>
+</a></div>
 
 ### Real-Time Data Collection
 
