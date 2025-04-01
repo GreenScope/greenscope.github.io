@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-people",
           title: "People",
-          description: "members of the lab or group",
+          description: "Contributors of GreenScope Project",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
