@@ -5,6 +5,8 @@ github_users:
   - ArfatBhatti
 
 repo_description_lines_max: 2
+rank_icon: percentile
+display_ranks: -?
 
 github_repos:
   - GreenScope/greenscope.github.io
