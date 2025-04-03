@@ -4,8 +4,8 @@ He is an Aspiring Software Engineer learning about deep learning and Artificial 
 
 <br>
 
-<div style="max-width: 200px; margin: 0 auto;">
-    <a href="https://github.com/Zafar249" target="_blank" rel="noopener noreferrer" style="width:100%; height:100%">
-        <img src="https://img.shields.io/badge/Zafar249-white?style=flat&logo=github&logoColor=%23FFFFFF&labelColor=%23000000&color=%23FFFFFF" alt="GitHub Zafar249" style="width:100%; height:auto">
+<div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <a href="https://github.com/Zafar249" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Zafar249-white?style=flat&logo=github&logoColor=%23FFFFFF&labelColor=%23000000&color=%23FFFFFF" alt="GitHub Zafar249" style="width:auto; height:30px">
     </a>
 </div>

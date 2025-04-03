@@ -4,8 +4,8 @@ M. Ahsan Saleem is a passionate aspiring data scientist and machine learning eng
 
 <br>
 
-<div style="max-width: 200px; margin: 0 auto;">
-    <a href="https://github.com/hawkeyeahsan" target="_blank" rel="noopener noreferrer" style="width:100%; height:100%">
-        <img src="https://img.shields.io/badge/hawkeyeahsan-white?style=flat&logo=github&logoColor=%23FFFFFF&labelColor=%23000000&color=%23FFFFFF" alt="GitHub hawkeyeahsan" style="width:100%; height:auto">
+<div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <a href="https://github.com/hawkeyeahsan" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/hawkeyeahsan-white?style=flat&logo=github&logoColor=%23FFFFFF&labelColor=%23000000&color=%23FFFFFF" alt="GitHub hawkeyeahsan" style="width:auto; height:30px">
     </a>
 </div>

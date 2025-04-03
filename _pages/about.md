@@ -14,7 +14,6 @@ profile:
 social: true
 ---
 
----
 
 ## Brief Description
 GreenScope is a an Archive that stores information regarding the environment of Pakistan. It uses it's own apparatus called EEDLs (ESP Environmental Data Loggers) to gather relevant information. EEDLs are mini weather stations which take live readings and transmit them to the GreenScope database. GreenScope offers features such as graphing, AI data analysis and API keys to import readings for your own projects.
@@ -29,7 +28,7 @@ At the current stage, Green Scope is just going to record data from different pa
 
 # The Plan
 
-{% include figure.liquid loading="eager" path="/assets/img/charts/Mind%20Map.svg" title="Mind Map" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="/assets/img/charts/Mind%20Map.svg" title="Mind Map" class="img-fluid rounded z-depth-1" style="background-color: white" %}
 
 <div style="display: flex; justify-content: center;"><a href="/assets/pdf/Mind%20Map.pdf" target="_blank" rel="noopener noreferrer">
 <p style="font-size: 1.5em">View PDF <i class="fa-solid fa-file-pdf"></i></p>

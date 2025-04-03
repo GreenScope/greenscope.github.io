@@ -4,8 +4,11 @@ M. Umar Shahbaz is a young aspiring programmer, from Lahore, Pakistan. Starting 
 
 <br>
 
-<div style="max-width: 200px; margin: 0 auto;">
-    <a href="https://github.com/MUmarShahbaz" target="_blank" rel="noopener noreferrer" style="width:100%; height:100%">
-        <img src="https://img.shields.io/badge/MUmarShahbaz-white?style=flat&logo=github&logoColor=%23FFFFFF&labelColor=%23000000&color=%23FFFFFF" alt="GitHub MUmarShahbaz" style="width:100%; height:auto">
+<div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <a href="https://github.com/MUmarShahbaz" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/MUmarShahbaz-white?style=flat&logo=github&logoColor=%23FFFFFF&labelColor=%23000000&color=%23FFFFFF" alt="GitHub MUmarShahbaz" style="width:auto; height:30px;">
+    </a>
+    <a href="https://m-umar.me/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/M._Umar_Shahbaz-%23000?style=flat&label=MUS&labelColor=%23F80&color=%230AF" alt="MUS" style="width:auto; height:30px;">
     </a>
 </div>
