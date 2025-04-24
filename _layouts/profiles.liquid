@@ -22,7 +22,7 @@ layout: page
           {% endif %}
         </div>
 
-        <div class="clearfix">
+        <div class="clearfix {% if profile.align == 'left' %}profile-title-right{% else %}profile-title-left{% endif %}">
           {% if profile.content %}
             {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
             {{ profile_content | markdownify }}
