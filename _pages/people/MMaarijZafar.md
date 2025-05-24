@@ -1,6 +1,6 @@
-# EEDL Developer
+# Founder/ AI Developer/ EEDL Developer
 
-He is an Aspiring Software Engineer learning about deep learning and Artificial Intelligence. He has worked on small projects such as language translations and sentiment analysis. He also has a passion for Robotics and has considerable experience with the Arduino Microcontroller working on projects such as a height measuring device and a data logger.
+M. Maarij Zafar is the founder and current leader of Greenscope. He is an Aspiring Software Engineer learning about deep learning and Artificial Intelligence. He has worked on small projects such as language translations and sentiment analysis. He also has a passion for Robotics and has considerable experience with the Arduino Microcontroller working on projects such as a height measuring device and a data logger.
 
 <br>
 
