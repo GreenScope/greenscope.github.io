@@ -33,4 +33,10 @@ profiles:
     image_circular: false
     more_info: >
       <h2 style="text-align:center">M. Maarij Zafar</h2>
+  - align: right
+    image: people/ZuraizAbbas.jpg
+    content: people/ZuraizAbbas.md
+    image_circular: false
+    more_info: >
+      <h2 style="text-align:center">Zuraiz Abbas</h2>
 ---
